@@ -1,0 +1,32 @@
+* {
+    text-align: center;
+    font-family: garamond;
+}
+
+mark {
+    background-color: transparent;
+}
+
+input, textarea {
+    text-align: left;
+}
+
+.yellow {
+    color: gold;
+}
+
+.red {
+    color: red;
+}
+
+.brown {
+    color: brown;
+}
+
+[href*='https://'] {
+    color: blueviolet;
+}
+
+a:hover {
+    color: darkorange;
+}
