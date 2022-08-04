@@ -23,6 +23,10 @@ input, textarea {
     color: brown;
 }
 
+.green {
+    color: green;
+}
+
 [href*='https://'] {
     color: blueviolet;
 }
