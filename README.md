@@ -6,6 +6,10 @@ This is my first website, I'm gonna update it to test what I've learned once in 
 
 feel free to post issues, start discussions and pull requests as you wish.
 
-# how to take part in testing
+# How to take part in testing
 
 It's hosted on Github pages, PHP doesn't work, but you can access it here: https://seven0492.github.io/simple-bear-website/.
+
+# Contributing
+
+You can contribute by proposing modifications in a pull request and discuss the modifications with me.
